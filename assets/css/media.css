@@ -209,7 +209,7 @@
   }
   a.desc-button{
     padding: 6px 12px;
-    font-size: 12px;
+    font-size: 14px;
     margin: 0 auto;
   }
   /* 2 */
@@ -287,11 +287,6 @@
   }
   .home-desc{
     margin: 30px 0;
-  }
-  a.desc-button{
-    padding: 6px 12px;
-    font-size: 12px;
-    margin: 0 auto;
   }
   /* 2 */
   .product-desc{
