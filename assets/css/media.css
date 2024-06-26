@@ -251,6 +251,9 @@
   p.specifications-desc{
     margin-bottom: 0 !important;
   }
+  p.small-desc{
+    margin: 0 20px 20px 30px !important;
+  }
 }
 @media screen and (max-width: 400px){
   /* 1 */
@@ -343,6 +346,9 @@
   .specifications-info{
     font-size: 12px;
   }
+  p.small-desc{
+    margin: 0 15px 30px 15px !important;
+  }
 }
 @media screen and (max-width: 355px){
   .home-desc .pic img {
@@ -353,5 +359,8 @@
     font-size: 13.5px;
     text-align: center;
     margin-left: 0;
+  }
+  p.small-desc{
+    margin: 0 10px 30px 10px !important;
   }
 }
