@@ -213,6 +213,9 @@
     margin: 0 auto;
   }
   /* 2 */
+  .product-desc p{
+    font-size: 12px;
+  }
   .product-desc{
     padding: 15px;
     font-size: 14px;
