@@ -116,8 +116,12 @@ a{
   line-height: 1.25;
 }
 .product-desc img{
-  width: 300px; height: 400px;
+  width: 200px;
 }
+.specifications-info img{
+  width: 200px;
+}
+
 .console-specifications p.specifications-title{
   text-align: center;
   margin-bottom: 60px;
@@ -136,7 +140,7 @@ a{
   line-height: 2;
   color:#a0a0a0;
   display: block;
-  text-align: center;
+  /* text-align: center; */
 }
 .specifications-info span{
   color:#e2e2e2;
@@ -212,4 +216,10 @@ footer .content h4{
 }
 .social img{
   width: 30px;
+}
+.specifications-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
 }
