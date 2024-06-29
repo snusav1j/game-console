@@ -224,6 +224,7 @@ footer .content h4{
   gap: 50px;
 }
 .specifications-title{
+  margin-left: 0;
   text-align: center;
   font-size: 24px;
   margin-bottom: 30px;
