@@ -39,6 +39,10 @@
     height: 60px;
     margin-right: 10px;
   }
+  .specifications-title{
+    margin: 0;
+    margin-bottom: 30px;
+  }
 }
 @media screen and (max-width: 1336px){
   /* 1 */
@@ -93,7 +97,11 @@
     text-align: center;
     gap: 15px;
   }
-  
+  .specifications-title{
+    padding-top: 0;
+    margin: 0;
+    margin-bottom: 30px;
+  }
 }
 @media screen and (max-width: 881px){
   /* 1 */
